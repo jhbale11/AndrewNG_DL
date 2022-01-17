@@ -1,5 +1,5 @@
 # AndrewNG_DL
-jhbale11
+**jhbale11**
 
 앤드류 응 교수님의 Coursera Deep Learning 강의를 듣고 연습해본 결과입니다.
 
